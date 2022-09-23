@@ -1,7 +1,7 @@
 package com.atguigu.git;
 
 /**
- * @author 张林
+ * 
  */
 public class Hello {
 
